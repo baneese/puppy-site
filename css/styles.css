@@ -1,0 +1,186 @@
+
+a:hover {
+  color: #EAF6F6;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 40px;
+  line-height: 3;
+}
+
+.BUTTON_NNF {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 14px;
+  -moz-border-radius: 14px;
+  border-radius: 14px;
+  height: 10px;
+  line-height: 10px;
+  color: #EAF6F6;
+  font-family: Arial;
+  width: 131px;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 20px;
+  border: solid #66BFBF 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_NNF:hover {
+  border: groove #FFFFFF 0;
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+  -webkit-border-radius: 14px;
+  -moz-border-radius: 14px;
+  border-radius: 14px;
+  text-decoration: none;
+}
+
+.contact-me {
+  margin: 60px auto;
+}
+
+.copyright {
+  color: #EAF6F6;
+  margin-bottom: 0;
+  font-size: .75rem;
+}
+
+.copyright-icons {
+  color: #EAF6F6;
+  font-size: .75rem;
+}
+
+.copyright-link {
+  color: #EAF6F6;
+  font-weight: bold;
+}
+
+div {
+  margin: 0;
+}
+
+.footer-link {
+  color: #11999E;
+  margin: 10px 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.garbage-img {
+  float: left;
+  margin-right: 30px;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Yomogi', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+.henlo {
+  font-family: 'Yomogi', cursive;
+  font-size: 3rem;
+  font-weight: bold;
+
+}
+
+hr {
+  border: none;
+  border-top: 10px dotted #EAF6F6;
+  text-align: center;
+  width: 4%;
+}
+
+.intro{
+  width: 19%;
+  margin: auto;
+}
+
+p {
+  color: #40514E;
+  line-height: 2;
+}
+
+.profile {
+  margin: 60px auto;
+}
+
+.profile-img {
+  border-radius: 50%;
+  width: 18%;
+  height: auto;
+  padding-top: 1rem;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 60px auto;
+  text-align: left;
+  line-height: 2;
+} 
+
+.send-me-an-email {
+  margin: 30px auto 40px auto;
+}
+
+.skills {
+  margin: 60px auto;
+}
+
+.top-container {
+  margin-bottom: 60px;
+}
+
+.time-img {
+  float: right;
+  margin-left: 30px;
+}
+.top-cloud {
+  position: absolute;
+  right: 600px;
+  top: 70px;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
